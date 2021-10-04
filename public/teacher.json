@@ -1,0 +1,13 @@
+[
+    {
+        "id":1,
+        "name": "Kyle Jamieson",
+        "education": "Phd, Applied Java"
+    },
+
+    {
+        "id":2,
+        "name": "Richard Donald",
+        "education": "Msc, React Pro"
+    }
+]

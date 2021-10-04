@@ -1,0 +1,121 @@
+[
+    {
+        "id":1,
+        "title": "Angular",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.” ... Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code",
+        "price": 26,
+        "hour_duration":25,
+        "month_duration":2,
+        "total_module":12
+    },
+
+    {
+        "id":2,
+        "title": "Java",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.” ... Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code",
+        "price": 32,
+        "hour_duration":32,
+        "month_duration":3,
+        "total_module":12
+    },
+
+    {
+        "id":3,
+        "title": "React",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.” ... Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code",
+        "price": 16,
+        "hour_duration":12,
+        "month_duration":1,
+        "total_module":12
+    },
+
+    {
+        "id":4,
+        "title": "MongoDB",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.” ... Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code",
+        "price": 59,
+        "hour_duration":56,
+        "month_duration":3,
+        "total_module":12
+    },
+
+    {
+        "id":5,
+        "title": "Node JS",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.” ... Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code",
+        "price": 72,
+        "hour_duration":80,
+        "month_duration":4,
+        "total_module":12
+    },
+
+    {
+        "id":6,
+        "title": "Django",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.” ... Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code",
+        "price": 45,
+        "hour_duration":65,
+        "month_duration":3,
+        "total_module":12
+    },
+
+    {
+        "id":7,
+        "title": "Scala",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.” ... Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code",
+        "price": 50,
+        "hour_duration":74,
+        "month_duration":3,
+        "total_module":12
+    },
+
+    {
+        "id":8,
+        "title": "Mysql",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.” ... Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code",
+        "price": 27,
+        "hour_duration":25,
+        "month_duration":2,
+        "total_module":12
+    },
+
+    {
+        "id":9,
+        "title": "ASP.NET",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.” ... Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code",
+        "price": 60,
+        "hour_duration":90,
+        "month_duration":5,
+        "total_module":12
+    },
+
+    {
+        "id":10,
+        "title": "Spring",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.” ... Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code",
+        "price": 102,
+        "hour_duration":102,
+        "month_duration":6,
+        "total_module":12
+    },
+
+    {
+        "id":11,
+        "title": "Docker",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.” ... Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code",
+        "price": 38,
+        "hour_duration":14,
+        "month_duration":1,
+        "total_module":12
+    },
+
+    {
+        "id":12,
+        "title": "Kubernetes",
+        "description": "Software development refers to a set of computer science activities dedicated to the process of creating, designing, deploying and supporting software.” ... Programming software to give programmers tools such as text editors, compilers, linkers, debuggers and other tools to create code",
+        "price": 67,
+        "hour_duration":36,
+        "month_duration":2,
+        "total_module":12
+    }
+]
